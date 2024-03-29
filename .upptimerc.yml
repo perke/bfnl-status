@@ -20,8 +20,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.babilou-family.nl
-  # baseUrl: /your-repo-name
+  # cname: status.babilou-family.nl
+  baseUrl: /bfnl-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status BFNL
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
