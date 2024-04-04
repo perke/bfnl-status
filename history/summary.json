@@ -40,19 +40,19 @@
     "url": "https://www.zonnekinderen.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.zonnekinderen.nl.ico",
     "slug": "zonnekinderen",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1484,
-    "timeDay": 1045,
-    "timeWeek": 1484,
-    "timeMonth": 1484,
-    "timeYear": 1484,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 1420,
+    "timeDay": 1011,
+    "timeWeek": 1420,
+    "timeMonth": 1420,
+    "timeYear": 1420,
     "dailyMinutesDown": {
-      "2024-04-04": 0
+      "2024-04-04": 12
     }
   },
   {
