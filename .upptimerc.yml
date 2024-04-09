@@ -15,11 +15,11 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: status.babilou-family.nl
-  baseUrl: /bfnl-status
+  cname: status.babilou-family.nl
+  # baseUrl: /bfnl-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status BFNL
-  introTitle: "Monitoring the status of Babilou Family Netherlands digital systems"
+  introTitle: "Status of Babilou Family Netherlands digital systems"
   introMessage: 
   navbar:
     - title: Status
