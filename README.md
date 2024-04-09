@@ -1,4 +1,4 @@
-# [📈 Live Status](https://Babilou Family Netherlands.github.io/bfnl-status): <!--live status--> **🟧 Partial outage**
+# [📈 Live Status](https://perke.github.io/bfnl-status): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for [Babilou Family Netherlands](https://perke.github.io/bfnl-status), powered by [Upptime](https://github.com/upptime/upptime).
 
