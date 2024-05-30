@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.zonnekinderen.nl.ico",
     "slug": "zonnekinderen",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "99.85%",
+    "uptimeYear": "99.86%",
     "time": 1164,
     "timeDay": 1578,
     "timeWeek": 1206,
@@ -62,17 +62,19 @@
     "url": "https://www.zeinchildcare.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.zeinchildcare.nl.ico",
     "slug": "zein-childcare",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2477,
-    "timeDay": 2258,
-    "timeWeek": 3073,
-    "timeMonth": 2604,
-    "timeYear": 2477,
-    "dailyMinutesDown": {}
+    "time": 2446,
+    "timeDay": 1339,
+    "timeWeek": 2742,
+    "timeMonth": 2533,
+    "timeYear": 2446,
+    "dailyMinutesDown": {
+      "2024-05-30": 0
+    }
   }
 ]
