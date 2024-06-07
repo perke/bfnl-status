@@ -11,6 +11,8 @@ sites:
     url: https://www.zonnekinderen.nl
   - name: Zein Childcare
     url: https://www.zeinchildcare.nl
+  - name: Babilou Family Nederland
+    url: https://babilou-family.nl
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
