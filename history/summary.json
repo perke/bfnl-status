@@ -84,17 +84,19 @@
     "url": "https://babilou-family.nl",
     "icon": "https://icons.duckduckgo.com/ip3/babilou-family.nl.ico",
     "slug": "babilou-family-nederland",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 755,
-    "timeDay": 919,
-    "timeWeek": 724,
-    "timeMonth": 755,
-    "timeYear": 755,
-    "dailyMinutesDown": {}
+    "time": 768,
+    "timeDay": 958,
+    "timeWeek": 758,
+    "timeMonth": 768,
+    "timeYear": 768,
+    "dailyMinutesDown": {
+      "2024-06-24": 0
+    }
   }
 ]
