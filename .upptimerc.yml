@@ -20,7 +20,7 @@ status-website:
   cname: status.babilou-family.nl
   # baseUrl: /bfnl-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status BFNL
+  name: BFNL Status
   introTitle: "Status of Babilou Family Netherlands digital systems"
   introMessage: 
   navbar:
