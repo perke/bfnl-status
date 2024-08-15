@@ -44,12 +44,12 @@
     "uptime": "99.69%",
     "uptimeDay": "95.47%",
     "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.61%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.69%",
     "time": 1243,
     "timeDay": 773,
     "timeWeek": 1568,
-    "timeMonth": 1243,
+    "timeMonth": 1229,
     "timeYear": 1243,
     "dailyMinutesDown": {
       "2024-08-15": 58,
@@ -90,9 +90,9 @@
     "url": "https://babilou-family.nl",
     "icon": "https://icons.duckduckgo.com/ip3/babilou-family.nl.ico",
     "slug": "babilou-family-nederland",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -102,6 +102,7 @@
     "timeMonth": 716,
     "timeYear": 725,
     "dailyMinutesDown": {
+      "2024-08-15": 0,
       "2024-06-24": 15
     }
   }
