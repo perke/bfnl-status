@@ -72,9 +72,9 @@
     "url": "https://www.zeinchildcare.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.zeinchildcare.nl.ico",
     "slug": "zein-childcare",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -84,6 +84,7 @@
     "timeMonth": 3152,
     "timeYear": 2705,
     "dailyMinutesDown": {
+      "2024-09-13": 0,
       "2024-07-12": 32,
       "2024-05-30": 14
     }
