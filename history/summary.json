@@ -114,5 +114,23 @@
       "2024-08-15": 13,
       "2024-06-24": 15
     }
+  },
+  {
+    "name": "Speelschool",
+    "url": "https://www.speelschool.nl",
+    "icon": "https://icons.duckduckgo.com/ip3/www.speelschool.nl.ico",
+    "slug": "speelschool",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 984,
+    "timeDay": 984,
+    "timeWeek": 984,
+    "timeMonth": 984,
+    "timeYear": 984,
+    "dailyMinutesDown": {}
   }
 ]
