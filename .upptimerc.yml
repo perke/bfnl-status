@@ -15,6 +15,7 @@ sites:
     url: https://babilou-family.nl
   - name: Speelschool
     url: https://www.speelschool.nl
+    # rebuild
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
