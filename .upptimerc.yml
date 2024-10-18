@@ -3,6 +3,8 @@ owner: perke # Your GitHub organization or username, where this repository lives
 repo: bfnl-status # The name of this repository
 
 sites:
+  - name: Babilou Family Nederland
+    url: https://babilou-family.nl
   - name: BLOS
     url: https://www.blos.nl
   - name: Bijdehandjes
@@ -11,8 +13,6 @@ sites:
     url: https://www.zonnekinderen.nl
   - name: Zein Childcare
     url: https://www.zeinchildcare.nl
-  - name: Babilou Family Nederland
-    url: https://babilou-family.nl
   - name: Speelschool
     url: https://www.speelschool.nl
     # rebuild
