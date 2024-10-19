@@ -1,5 +1,28 @@
 [
   {
+    "name": "Babilou Family Nederland",
+    "url": "https://babilou-family.nl",
+    "icon": "https://icons.duckduckgo.com/ip3/babilou-family.nl.ico",
+    "slug": "babilou-family-nederland",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.97%",
+    "time": 740,
+    "timeDay": 959,
+    "timeWeek": 761,
+    "timeMonth": 805,
+    "timeYear": 740,
+    "dailyMinutesDown": {
+      "2024-08-26": 15,
+      "2024-08-21": 13,
+      "2024-08-15": 13,
+      "2024-06-24": 15
+    }
+  },
+  {
     "name": "BLOS",
     "url": "https://www.blos.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.blos.nl.ico",
@@ -10,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 316,
-    "timeDay": 380,
-    "timeWeek": 417,
-    "timeMonth": 385,
-    "timeYear": 316,
+    "time": 317,
+    "timeDay": 596,
+    "timeWeek": 452,
+    "timeMonth": 390,
+    "timeYear": 317,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 456,
-    "timeDay": 574,
-    "timeWeek": 525,
-    "timeMonth": 522,
-    "timeYear": 456,
+    "time": 458,
+    "timeDay": 695,
+    "timeWeek": 553,
+    "timeMonth": 527,
+    "timeYear": 458,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.73%",
-    "time": 1236,
-    "timeDay": 871,
-    "timeWeek": 917,
+    "time": 1234,
+    "timeDay": 906,
+    "timeWeek": 822,
     "timeMonth": 1181,
-    "timeYear": 1236,
+    "timeYear": 1234,
     "dailyMinutesDown": {
       "2024-10-07": 18,
       "2024-10-04": 12,
@@ -83,39 +106,16 @@
     "uptimeWeek": "99.50%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.96%",
-    "time": 2344,
-    "timeDay": 519,
-    "timeWeek": 543,
-    "timeMonth": 661,
-    "timeYear": 2344,
+    "time": 2336,
+    "timeDay": 733,
+    "timeWeek": 576,
+    "timeMonth": 662,
+    "timeYear": 2336,
     "dailyMinutesDown": {
       "2024-10-16": 50,
       "2024-09-13": 24,
       "2024-07-12": 32,
       "2024-05-30": 14
-    }
-  },
-  {
-    "name": "Babilou Family Nederland",
-    "url": "https://babilou-family.nl",
-    "icon": "https://icons.duckduckgo.com/ip3/babilou-family.nl.ico",
-    "slug": "babilou-family-nederland",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 738,
-    "timeDay": 680,
-    "timeWeek": 720,
-    "timeMonth": 804,
-    "timeYear": 738,
-    "dailyMinutesDown": {
-      "2024-08-26": 15,
-      "2024-08-21": 13,
-      "2024-08-15": 13,
-      "2024-06-24": 15
     }
   },
   {
@@ -129,11 +129,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 721,
-    "timeDay": 563,
-    "timeWeek": 658,
-    "timeMonth": 721,
-    "timeYear": 721,
+    "time": 735,
+    "timeDay": 993,
+    "timeWeek": 717,
+    "timeMonth": 735,
+    "timeYear": 735,
     "dailyMinutesDown": {}
   }
 ]
