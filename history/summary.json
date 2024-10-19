@@ -27,19 +27,19 @@
     "url": "https://www.blos.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.blos.nl.ico",
     "slug": "blos",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 317,
-    "timeDay": 596,
-    "timeWeek": 452,
-    "timeMonth": 390,
-    "timeYear": 317,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 318,
+    "timeDay": 477,
+    "timeWeek": 441,
+    "timeMonth": 389,
+    "timeYear": 318,
     "dailyMinutesDown": {
-      "2024-10-19": 0
+      "2024-10-19": 15
     }
   },
   {
