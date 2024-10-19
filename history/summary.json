@@ -27,9 +27,9 @@
     "url": "https://www.blos.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.blos.nl.ico",
     "slug": "blos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -38,7 +38,9 @@
     "timeWeek": 452,
     "timeMonth": 390,
     "timeYear": 317,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-19": 0
+    }
   },
   {
     "name": "Bijdehandjes",
