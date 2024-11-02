@@ -29,11 +29,11 @@
     "url": "https://www.blos.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.blos.nl.ico",
     "slug": "blos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 327,
     "timeDay": 374,
@@ -41,6 +41,7 @@
     "timeMonth": 439,
     "timeYear": 327,
     "dailyMinutesDown": {
+      "2024-11-02": 0,
       "2024-10-19": 15
     }
   },
