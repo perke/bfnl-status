@@ -4,18 +4,20 @@
     "url": "https://babilou-family.nl",
     "icon": "https://icons.duckduckgo.com/ip3/babilou-family.nl.ico",
     "slug": "babilou-family-netherlands",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 661,
-    "timeDay": 738,
-    "timeWeek": 661,
-    "timeMonth": 661,
-    "timeYear": 661,
-    "dailyMinutesDown": {}
+    "time": 4481,
+    "timeDay": 10252,
+    "timeWeek": 4481,
+    "timeMonth": 4481,
+    "timeYear": 4481,
+    "dailyMinutesDown": {
+      "2024-11-14": 0
+    }
   },
   {
     "name": "BLOS",
