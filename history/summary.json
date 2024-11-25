@@ -45,19 +45,19 @@
     "url": "https://www.bijdehandjes.info",
     "icon": "https://icons.duckduckgo.com/ip3/www.bijdehandjes.info.ico",
     "slug": "bijdehandjes",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 476,
-    "timeDay": 0,
-    "timeWeek": 444,
-    "timeMonth": 574,
+    "timeDay": 536,
+    "timeWeek": 457,
+    "timeMonth": 573,
     "timeYear": 476,
     "dailyMinutesDown": {
-      "2024-11-25": 0
+      "2024-11-25": 3
     }
   },
   {
