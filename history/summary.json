@@ -140,9 +140,9 @@
     "url": "https://www.speelschool.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.speelschool.nl.ico",
     "slug": "speelschool",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
@@ -152,6 +152,7 @@
     "timeMonth": 654,
     "timeYear": 743,
     "dailyMinutesDown": {
+      "2025-03-02": 0,
       "2025-02-20": 11
     }
   }
