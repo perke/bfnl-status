@@ -15,6 +15,8 @@ sites:
     url: https://www.zeinchildcare.nl
   - name: Speelschool
     url: https://www.speelschool.nl
+  - name: Basker
+    url: https://www.basker.nl
     # rebuild
 
 status-website:
