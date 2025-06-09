@@ -159,19 +159,19 @@
     "url": "https://www.basker.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.basker.nl.ico",
     "slug": "basker",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 480,
-    "timeDay": 563,
-    "timeWeek": 480,
-    "timeMonth": 480,
-    "timeYear": 480,
+    "status": "up",
+    "uptime": "99.13%",
+    "uptimeDay": "97.46%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.13%",
+    "uptimeYear": "99.13%",
+    "time": 517,
+    "timeDay": 614,
+    "timeWeek": 517,
+    "timeMonth": 517,
+    "timeYear": 517,
     "dailyMinutesDown": {
-      "2025-06-09": 0
+      "2025-06-09": 37
     }
   }
 ]
