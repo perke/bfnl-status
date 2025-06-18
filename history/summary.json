@@ -100,8 +100,7 @@
       "2024-08-14": 7,
       "2024-07-15": 165,
       "2024-07-14": 207,
-      "2024-07-12": 27,
-      "2024-06-18": 12
+      "2024-07-12": 27
     }
   },
   {
@@ -158,19 +157,20 @@
     "url": "https://www.basker.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.basker.nl.ico",
     "slug": "basker",
-    "status": "down",
-    "uptime": "96.56%",
-    "uptimeDay": "83.69%",
-    "uptimeWeek": "94.68%",
-    "uptimeMonth": "96.56%",
-    "uptimeYear": "96.56%",
-    "time": 812,
-    "timeDay": 886,
-    "timeWeek": 938,
-    "timeMonth": 812,
-    "timeYear": 812,
+    "status": "up",
+    "uptime": "96.41%",
+    "uptimeDay": "81.92%",
+    "uptimeWeek": "94.43%",
+    "uptimeMonth": "96.41%",
+    "uptimeYear": "96.41%",
+    "time": 829,
+    "timeDay": 924,
+    "timeWeek": 955,
+    "timeMonth": 829,
+    "timeYear": 829,
     "dailyMinutesDown": {
-      "2025-06-17": 236,
+      "2025-06-18": 0,
+      "2025-06-17": 261,
       "2025-06-16": 301,
       "2025-06-09": 37
     }
