@@ -17,6 +17,8 @@ sites:
     url: https://www.speelschool.nl
   - name: Basker
     url: https://www.basker.nl
+  - name: Basker International
+    url: https://www.baskerinternational.nl
     # rebuild
 
 status-website:
