@@ -5,20 +5,15 @@ repo: bfnl-status # The name of this repository
 sites:
   - name: Babilou Family Netherlands
     url: https://babilou-family.nl
-  - name: BLOS
-    url: https://www.blos.nl
-  - name: Bijdehandjes
-    url: https://www.bijdehandjes.info
-  - name: Zonnekinderen
-    url: https://www.zonnekinderen.nl
-  - name: Zein Childcare
-    url: https://www.zeinchildcare.nl
-  - name: Speelschool
-    url: https://www.speelschool.nl
   - name: Basker
     url: https://www.basker.nl
   - name: Basker International
     url: https://www.baskerinternational.nl
+  - name: Bijdehandjes
+    url: https://www.bijdehandjes.info
+  - name: Speelschool
+    url: https://www.speelschool.nl
+
     # rebuild
 
 status-website:
