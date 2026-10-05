@@ -4,17 +4,17 @@
     "url": "https://babilou-family.nl",
     "icon": "https://icons.duckduckgo.com/ip3/babilou-family.nl.ico",
     "slug": "babilou-family-netherlands",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 1134,
-    "timeDay": 1293,
-    "timeWeek": 1306,
-    "timeMonth": 1259,
-    "timeYear": 1229,
+    "timeDay": 1107,
+    "timeWeek": 1257,
+    "timeMonth": 1248,
+    "timeYear": 1228,
     "dailyMinutesDown": {
       "2025-10-23": 30,
       "2025-11-13": 29,
@@ -22,7 +22,8 @@
       "2026-01-16": 152,
       "2026-01-26": 27,
       "2026-02-03": 42,
-      "2026-03-19": 282
+      "2026-03-19": 282,
+      "2026-10-05": 0
     }
   },
   {
@@ -35,7 +36,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.69%",
+    "uptimeYear": "96.75%",
     "time": 575,
     "timeDay": 554,
     "timeWeek": 518,
